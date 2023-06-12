@@ -1,5 +1,5 @@
 # README
-## Authors Recommendation
+## Author's Recommendations
 1. If you are new to Salesforce then you should first finnish Reading the Official Documentations. And only read my Project when you have atleast finished the reading the Important Documentations of Salesforce (List of Official Documentations is attached to the Bottom of this file).
 2. If you have certain Experience in Salesforce Admin/ Development then you can refer to the notes. I have tried my best to put all the Important topics into this Project.
 3. All the information I have put in these notes has been tested by me and been gathered from the Official Documentation still if you found that something is wrong kindly mail be the exact File name and Question number along with your suggestions.
