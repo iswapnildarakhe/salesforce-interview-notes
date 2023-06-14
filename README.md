@@ -19,10 +19,3 @@ ______
    Ans : Yes, you can do whatever you want but a little credit would help. So, instead of sharing the files directly kindly share my Github Profile.
 
 ____
-
-## Known Issue
-
-Links to the attachments in Obsedian are in `![[salesforce_architectre]]` this format but to display them in github I had to change them to a relative path format which is Mardown specification. So, if you import this project in your Obsedian app all the images will be shown to as Clickable links and will open as a Note. So, just change the Relative Path Links to the Obsedian Format.
-For more info : [Internal links - Obsidian Help](https://help.obsidian.md/Linking+notes+and+files/Internal+links)
-
-___

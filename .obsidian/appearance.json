@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "theme": "obsidian"
 }

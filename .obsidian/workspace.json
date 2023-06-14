@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "107f1876205185a3",
+    "id": "2b774f1ff21df00f",
     "type": "split",
     "children": [
       {
-        "id": "326a7ca065f771c1",
+        "id": "83c3ed0dfec21f64",
         "type": "tabs",
         "children": [
           {
-            "id": "be51810365f4d652",
+            "id": "83044a2a94ddced5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Configuration/1. Basics.md",
+                "file": "1. Configuration/8. Salesforce Ids.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be6e611d2b182de1",
+    "id": "a8d5ee62c860389a",
     "type": "split",
     "children": [
       {
-        "id": "88ea3a2a1fe2c0e8",
+        "id": "fb2da98418bd363c",
         "type": "tabs",
         "children": [
           {
-            "id": "4ef7c6faa4d1586f",
+            "id": "2b65850cabff3dbc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0cadbb304261c235",
+            "id": "01296e3df1931162",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,15 @@
             }
           },
           {
-            "id": "a7f415b2f4731df8",
+            "id": "1aab85ec10a6985c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "59b5788312945f73",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5086555480957
   },
   "right": {
-    "id": "9501261f48160fbe",
+    "id": "c7973b90b8a18e61",
     "type": "split",
     "children": [
       {
-        "id": "1ebacfd609c681f0",
+        "id": "beab06fa9096f8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6c5312b5eedbd2f0",
+            "id": "1a18dfa467f3355a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Configuration/1. Basics.md",
+                "file": "1. Configuration/8. Salesforce Ids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "63957b6541e230ae",
+            "id": "eef3c901eb989450",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Configuration/1. Basics.md",
+                "file": "1. Configuration/8. Salesforce Ids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "79568f8b56fbce30",
+            "id": "3171e9c0c93b9f24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +128,25 @@
             }
           },
           {
-            "id": "f14bb937986cc684",
+            "id": "9194c8de17aa855d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Configuration/1. Basics.md"
+                "file": "1. Configuration/8. Salesforce Ids.md"
               }
             }
+          },
+          {
+            "id": "984435593f04576e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,6 +163,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be51810365f4d652",
-  "lastOpenFiles": []
+  "active": "83044a2a94ddced5",
+  "lastOpenFiles": [
+    "1. Configuration/6 Security Model (Basics).md",
+    "1. Configuration/5. Different Pages and Record Types.md",
+    "1. Configuration/4. Picklists.md",
+    "1. Configuration/3. Managing Data Quality.md",
+    "1. Configuration/2.1. Data Model (Advance).md",
+    "1. Configuration/2. Data Model.md",
+    "1. Configuration/1. Basics.md",
+    "attachments/salesforce_architecture.png",
+    "attachments/trigger_considerations.PNG",
+    "attachments/cloud_service_model.webp",
+    "attachments/trigger-considerations.PNG",
+    "attachments/salesforce architecture.png",
+    "attachments/cloud service model.webp",
+    "attachments",
+    "1. Configuration/salesforce architecture.png",
+    "salesforce architecture.png",
+    "home/swapnil/Portable/Obsedian/Interview.md",
+    "home/swapnil/Portable/Obsedian",
+    "home/swapnil/Portable",
+    "home/swapnil",
+    "home",
+    "3. Customization/4. SOQL in Apex.md",
+    "3. Customization/3. Keywords and Methods.md",
+    "CODING DRILLS/1. Collections.md",
+    "3. Customization/6. Trigger.md",
+    "CODING DRILLS",
+    "trigger-considerations.png",
+    "resources/trigger-considerations.PNG",
+    "3. Customization/5. DML.md",
+    "3. Customization/2. Collections.md",
+    "3. Customization/8. Exception Handling and Database Operations.md",
+    "3. Customization/7. Asynchronous Apex.md",
+    "3. Customization/1. Basics.md",
+    "1. Configuration/10. Reports and Dashboards.md",
+    "1. Configuration/9. Data Import Export.md",
+    "1. Configuration/8. Salesforce Ids.md",
+    "1. Configuration/6.1. Security Model (Advance).md",
+    "5. Navigation/Navigation specific.md",
+    "0. README.md",
+    "5. Navigation/1. Security Model.md",
+    "3. Customization/8. Exception Handling.md",
+    "resources",
+    "5. Navigation",
+    "4. LWC",
+    "2. Collections"
+  ]
 }
