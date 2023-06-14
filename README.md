@@ -7,6 +7,7 @@
 3. All the information I have put in these notes has been tested by me and been gathered from the Official Documentation still if you found that something is wrong kindly mail be the exact File name and Question number along with your suggestions.
 4. This is just Interview Preparation Notes, I will try to put my complete notes ASAP.
 5. This project will be updated from time to time. Certain files are incompelete for now, as you can understand I am working on this personal project in my free time.
+6. After Importing the Obsedian Project don't forget to update the Themes and other Plugins.
 
 ______
 
