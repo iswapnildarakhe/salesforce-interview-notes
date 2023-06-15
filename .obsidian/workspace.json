@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83c3ed0dfec21f64",
+        "id": "6d4e5f49e07e22e6",
         "type": "tabs",
         "children": [
           {
-            "id": "83044a2a94ddced5",
+            "id": "dfebf2eaf8c96f90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,8 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83044a2a94ddced5",
+  "active": "dfebf2eaf8c96f90",
   "lastOpenFiles": [
+    "01. Configuration/05. Picklists.md",
+    "01. Configuration/04. Managing Data Quality.md",
+    "01. Configuration/03. Data Model (Advance).md",
+    "01. Configuration/02. Data Model.md",
+    "01. Configuration/01. Basics.md",
+    "03. Customization/09. Exception Handling and Database Operations.md",
+    "03. Customization/08. Asynchronous Apex.md",
+    "03. Customization/07. Trigger.md",
+    "03. Customization/06. DML.md",
+    "03. Customization/05. SOQL Statements.md",
+    "03. Customization/04. SOQL in Apex.md",
+    "03. Customization/03. Keywords and Methods.md",
+    "03. Customization/02. Collections.md",
+    "03. Customization/01. Basics.md",
     "1. Configuration/6 Security Model (Basics).md",
     "1. Configuration/5. Different Pages and Record Types.md",
     "1. Configuration/4. Picklists.md",
@@ -185,19 +199,6 @@
     "CODING DRILLS",
     "trigger-considerations.png",
     "resources/trigger-considerations.PNG",
-    "3. Customization/5. DML.md",
-    "3. Customization/2. Collections.md",
-    "3. Customization/8. Exception Handling and Database Operations.md",
-    "3. Customization/7. Asynchronous Apex.md",
-    "3. Customization/1. Basics.md",
-    "1. Configuration/10. Reports and Dashboards.md",
-    "1. Configuration/9. Data Import Export.md",
-    "1. Configuration/8. Salesforce Ids.md",
-    "1. Configuration/6.1. Security Model (Advance).md",
-    "5. Navigation/Navigation specific.md",
-    "0. README.md",
-    "5. Navigation/1. Security Model.md",
-    "3. Customization/8. Exception Handling.md",
     "resources",
     "5. Navigation",
     "4. LWC",
