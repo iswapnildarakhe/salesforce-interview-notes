@@ -64,3 +64,5 @@ ____
 - It is the amount of memory allocated to store variables, objects, and other data during the execution of your code.
 - For Synchronous it is 6 MB and for Asynchronous it is 12 MB.
 ___
+# Create a Doc that explains the limit and how to bypass them ex: by using Batch Apex you can dml more than 1000 records
+____
