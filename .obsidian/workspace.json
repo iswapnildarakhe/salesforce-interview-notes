@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d4e5f49e07e22e6",
+        "id": "6bedcc9f1d96a5a1",
         "type": "tabs",
         "children": [
           {
-            "id": "dfebf2eaf8c96f90",
+            "id": "65d9c2307801cc37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Governor_Limits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Governor_Limits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Governor_Limits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Governor_Limits.md"
+              }
             }
           },
           {
@@ -155,29 +163,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfebf2eaf8c96f90",
+  "active": "65d9c2307801cc37",
   "lastOpenFiles": [
-    "01. Configuration/05. Picklists.md",
-    "01. Configuration/04. Managing Data Quality.md",
-    "01. Configuration/03. Data Model (Advance).md",
-    "01. Configuration/02. Data Model.md",
-    "01. Configuration/01. Basics.md",
-    "03. Customization/09. Exception Handling and Database Operations.md",
-    "03. Customization/08. Asynchronous Apex.md",
-    "03. Customization/07. Trigger.md",
-    "03. Customization/06. DML.md",
-    "03. Customization/05. SOQL Statements.md",
-    "03. Customization/04. SOQL in Apex.md",
-    "03. Customization/03. Keywords and Methods.md",
-    "03. Customization/02. Collections.md",
-    "03. Customization/01. Basics.md",
-    "1. Configuration/6 Security Model (Basics).md",
-    "1. Configuration/5. Different Pages and Record Types.md",
-    "1. Configuration/4. Picklists.md",
-    "1. Configuration/3. Managing Data Quality.md",
-    "1. Configuration/2.1. Data Model (Advance).md",
-    "1. Configuration/2. Data Model.md",
-    "1. Configuration/1. Basics.md",
+    "LICENSE.md",
+    "TEMPORARY_LIST.md",
+    "README.md",
+    "Governor_Limits.md",
+    "03._Customization/10._Object_Oriented_Programming.md",
+    "03._Customization/09._Exception_Handling_and_Database_Operations.md",
+    "03._Customization/08._Asynchronous_Apex.md",
+    "03._Customization/07._Trigger.md",
+    "03._Customization/06._DML.md",
+    "03._Customization/05._SOQL_Statements.md",
+    "03._Customization/04._SOQL_in_Apex.md",
+    "03._Customization/03._Keywords_and_Methods.md",
+    "03._Customization/02._Collections.md",
+    "03._Customization/01._Basics.md",
+    "02._Automation/05._All_About_Emails_in_Salesforce.md",
+    "02._Automation/04._Difference.md",
+    "02._Automation/03._Flows.md",
+    "02._Automation/02._Workflow_Rules.md",
+    "02._Automation/01._Automation_Basics.md",
+    "01._Configuration/11._Reports_and_Dashboards.md",
+    "01._Configuration/10._Data_Import_Export.md",
+    "01._Configuration/09._Salesforce_Ids.md",
+    "01._Configuration/08._Security_Model_(Advance).md",
+    "01._Configuration/07._Security_Model_(Basics).md",
+    "01._Configuration/06._Different_Pages_and_Record_Types.md",
+    "01._Configuration/05._Picklists.md",
     "attachments/salesforce_architecture.png",
     "attachments/trigger_considerations.PNG",
     "attachments/cloud_service_model.webp",
@@ -187,15 +200,10 @@
     "attachments",
     "1. Configuration/salesforce architecture.png",
     "salesforce architecture.png",
-    "home/swapnil/Portable/Obsedian/Interview.md",
     "home/swapnil/Portable/Obsedian",
     "home/swapnil/Portable",
     "home/swapnil",
     "home",
-    "3. Customization/4. SOQL in Apex.md",
-    "3. Customization/3. Keywords and Methods.md",
-    "CODING DRILLS/1. Collections.md",
-    "3. Customization/6. Trigger.md",
     "CODING DRILLS",
     "trigger-considerations.png",
     "resources/trigger-considerations.PNG",

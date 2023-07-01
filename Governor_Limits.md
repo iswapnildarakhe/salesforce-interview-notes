@@ -6,7 +6,7 @@
 ___
 #### 2. List all Governor Limits.
 There are types of Governor Limits
-1. **Per-Transaction Apex Limits** 
+1. **Per-Transaction Apex Limits** <br/>
 **NOTE** : These limits will reset for per execute() method run of Batch Class
 
 |Functionality|Synchronous Limit|Asynchronous Limit|
