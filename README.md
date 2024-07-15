@@ -1,5 +1,8 @@
 # README
 
+# DISCONTINUED:
+This project has been discontinued and no longer maintained. Although you can still refer this as it will give you the questions that are commonly asked, few code examples of how things are done. But no new additions will be made to this Repo.
+
 ## Author's Recommendations
 
 1. If you are new to Salesforce then you should first finish Reading the Official Salesforce Documentations. And only read my Project when you have at least finished reading the Important Documentations of Salesforce (List of Official Documentations is attached to the Bottom of this file).
